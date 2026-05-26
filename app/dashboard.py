@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 df=pd.read_csv(
-"../data/sales_clean.csv"
+"data/sales_clean.csv"
 )
 
 df["Date"]=pd.to_datetime(
