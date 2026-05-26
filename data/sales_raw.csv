@@ -1,0 +1,17 @@
+Date,Product,City,Sales,Profit
+2026-01-01,Laptop,Chennai,65000,12000
+2026-01-02,Mouse,chennai,1500,400
+2026-01-05,Keyboard,Bangalore,3000,
+2026-01-10,Laptop,Hyderabad,70000,15000
+2026-02-01,Phone,Chennai,50000,11000
+2026-02-06,Laptop,Bangalore,,13000
+2026-02-12,Mouse,Delhi,1600,300
+2026-03-02,Phone,Mumbai,55000,12000
+2026-03-06,Keyboard,Delhi,2800,700
+2026-03-09,Laptop, Chennai,72000,16000
+2026-03-15,Phone,Bangalore,53000,10000
+2026-04-01,Mouse,Mumbai,1700,400
+2026-04-06,Laptop,Delhi,71000,15000
+2026-04-10,Phone,Chennai,60000,13000
+2026-04-20,Keyboard,Hyderabad,3500,1000
+2026-04-20,Keyboard,Hyderabad,3500,1000
