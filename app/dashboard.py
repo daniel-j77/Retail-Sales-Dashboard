@@ -10,7 +10,7 @@ df["Date"]
 )
 
 st.title(
-"Retail Sales Dashboard"
+"Retail Sales Analysis Dashboard"
 )
 
 city=st.selectbox(
